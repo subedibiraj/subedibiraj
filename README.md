@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **edu.birajsubedi@gmail.com**
+- 📫 How to reach me **contact@birajsubedi69.com.np**
 
 - ⚡ Fun fact **I am extrovert to people I'm comfortable**
 
