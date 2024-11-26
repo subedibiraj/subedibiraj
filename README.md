@@ -10,11 +10,11 @@
 
 - 🌱 I’m currently learning **Back End Development and APIs**
 
-- 👨‍💻 All of my projects are available at [https://birajsubedi.netlify.app/](https://birajsubedi.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://biraj-subedi.com.np/](https://biraj-subedi.com.np/)
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **edu.birajsubedi@gmail.com**
+- 📫 How to reach me **contact@biraj-subedi.com.np**
 
 - ⚡ Fun fact **I am extrovert to people I'm comfortable**
 
