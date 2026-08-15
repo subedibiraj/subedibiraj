@@ -1,34 +1,66 @@
-<h1 align="center">Hi 👋, I'm Biraj Subedi</h1>
-<h3 align="center">A passionate web developer and AI Enthusiast from Nepal</h3>
-<p align="center">
-    <img src="https://tenor.com/view/text-work-computer-working-penguin-gif-16760829579653810809.gif" alt="Working Penguin GIF" width="480" height="270">
-</p>
+# Biraj Subedi
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subedibiraj&label=Profile%20views&color=0e75b6&style=flat" alt="subedibiraj" /> </p>
+**Computer Engineer · Associate Data Solutions Engineer @ [Grepsr](https://grepsr.com) · Independent Researcher in IR, NLP & Low-Resource Speech**
 
-- 🔭 I’m currently working on **AI-Assisted eWallet for Visually Impaired Individuals**
+Kathmandu, Nepal · [Website](https://biraj-subedi.com.np) · [LinkedIn](https://linkedin.com/in/subedibiraj) · [Google Scholar](https://scholar.google.com/citations?user=e13aAfgAAAAJ) · [ORCID](https://orcid.org/0009-0005-3780-7670)
 
-- 🌱 I’m currently learning **Back End Development and APIs**
+---
 
-- 👨‍💻 All of my projects are available at [https://biraj-subedi.com.np/](https://biraj-subedi.com.np/)
+I build systems where data pipelines and models have to solve real constraints together: **data scarcity, low-resource languages, and production scale**.
 
-- 💬 Ask me about **MERN**
+Currently working on large-scale web crawling and ETL at Grepsr, while pursuing independent research in information retrieval, computer vision, and low-resource NLP/speech.
 
-- 📫 How to reach me **contact@biraj-subedi.com.np**
+**Three self-directed technical reports, multiple deployed systems, one original dataset (NepFinSpeech-403).**
 
-- ⚡ Fun fact **I am extrovert to people I'm comfortable**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/subedibiraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="subedibiraj" height="30" width="40" /></a>
-<a href="https://instagram.com/__404__found__/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__404__found__/" height="30" width="40" /></a>
-</p>
+## Research
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+| # | Paper | Key Result | Links |
+|---|---|---|---|
+| **R1** | **Comparing Retrieval Methods for Academic Advisor Discovery** — 768 CS faculty profiles, 9 US universities, 6 methods benchmarked with NDCG@10 & MAP@10 | Reranked fusion best overall (NDCG@10 0.477); biography-only beats biography+tags (0.634 vs 0.593) | [Repo](https://github.com/subedibiraj/academic-discovery) · [Demo](https://academic.biraj-subedi.com.np) |
+| **R2** | **ChromaForge: Deep Learning Approaches for Automatic Grayscale Image Colorisation** — CNN, U-Net, conditional GAN on COCO 2017 (118K images) | Best validation MSE 0.00915; cGAN wins on perceptual colorfulness | [Repo](https://github.com/subedibiraj/chromaforge) · [Demo](https://chromaforge.biraj-subedi.com.np) · [HF](https://huggingface.co/spaces/birajsubedi/chromaforge-api) |
+| **R3** | **SpeakPay: LoRA Fine-Tuning of Whisper for Low-Resource Nepali Financial ASR** — NepFinSpeech-403 (original dataset), Whisper large-v2 + LoRA/PEFT | WER 131% → 42.6% (−67.5%); Devanagari numeral accuracy 0% → 73.9% | [Repo](https://github.com/subedibiraj/speakpay) · [Demo](https://speakpay.biraj-subedi.com.np) · [Dataset](https://huggingface.co/datasets/birajsubedi/NepFinSpeech) · [Model](https://huggingface.co/birajsubedi/whisper-large-v2-nepali-financial) |
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=subedibiraj&show_icons=true&locale=en&layout=compact" alt="subedibiraj" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=subedibiraj&show_icons=true&locale=en" alt="subedibiraj" /></p>
+## Other Projects
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=subedibiraj&" alt="subedibiraj" /></p>
+- **CrawlGen** — RAG + LangChain + FastAPI chatbot that generates production-ready web crawlers from natural language. Took **2nd place** at the Grepsr internal hackathon and was adopted as a developer onboarding tool. *(Private internal project.)*
+
+- **[BolaNepal](https://github.com/subedibiraj/Audio-Transcription-Webpage)** — Platform for collecting and curating Nepali speech data from **1,000+ speakers**, used to build the NepFinSpeech-403 dataset. [Live](https://bolanepal.netlify.app/)
+
+- **GRE Prep App** — Full GRE study system with SM-2 spaced repetition, AI-adaptive practice, ETS-curve mock exams, and Supabase sync. [Live](https://gre.biraj-subedi.com.np)
+
+---
+
+## Stack
+
+**Research & ML:**  
+PyTorch · TensorFlow · Hugging Face Transformers · LoRA/PEFT · Scikit-learn
+
+**NLP & Speech:**  
+Whisper · Low-resource ASR · Dataset curation · Devanagari NLP
+
+**Information Retrieval:**  
+BM25 · Dense retrieval · Learning-to-Rank · NDCG/MAP evaluation
+
+**Data Engineering:**  
+Python · Node.js · PHP · Playwright · Scrapy · ETL pipelines · AWS
+
+**Web:**  
+React · Node.js · Express · PostgreSQL · MongoDB · Supabase
+
+---
+
+## Background
+
+- **B.E. Computer Engineering, Tribhuvan University** — 79.88%, First Division, merit scholarship (top of class every semester)
+- **1.5+ years production data engineering at [Grepsr](https://grepsr.com)** — promoted from Junior to Associate Data Solutions Engineer
+- **AI-Assisted Digital Payments for the Visually Impaired** — eSewa Fellowship, TU Major Project
+
+---
+
+## Contact
+
+Reach me at [contact@biraj-subedi.com.np](mailto:contact@biraj-subedi.com.np) or [edu.birajsubedi@gmail.com](mailto:edu.birajsubedi@gmail.com).
